@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akheelbaba51@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact Jack of all trades , Master of None !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
