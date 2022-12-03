@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **CSS and JavaScript**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Python**
 
 - 📫 How to reach me **akheelbaba51@gmail.com**
 
