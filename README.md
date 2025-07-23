@@ -112,8 +112,6 @@
 
 ### 🌐 Connect with Me
 
-<h3>🌐 Connect with Me</h3>
-
 <p>
   <a href="mailto:akheelbaba51@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
