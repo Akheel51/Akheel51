@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://github.com/akheel51)
 
-<h1 align="center">Hi 👋, I'm Mohammed Akheel</h1>
-<h3 align="center">Backend Developer | Integration Engineer | Java + OIC Enthusiast</h3>
+<h1 align="center">Hey there 👋 I'm Mohammed Akheel</h1>
+<h3 align="center">🚀 Backend Developer | 🔗 Integration Engineer | ☁️ Oracle Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
@@ -9,98 +9,67 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🌟 Who Am I?
 
-- 💼 Backend Developer and Oracle Integration Cloud (OIC) Engineer at **Accenture**
-- 🔁 Built 15+ scalable integrations for ERP automation using **Java, Spring Boot, and OIC**
-- 🤖 Automated ERP workflows with **OIC Robots**, improving turnaround time by 80%
-- 🧾 Created 25+ **BI Publisher reports**, reducing reporting time by 70%
-- 📊 Validated 10K+ records via API and SQL for secure enterprise deployments
-- 🧠 Passionate about **clean code**, **API design**, and **integration architecture**
-- 🎯 Certified in **OCI**, **Java EE**, and **ERP Cloud Foundations**
+I'm a problem solver who loves building powerful backend systems and smooth cloud integrations. From microservices to enterprise ERP workflows—if it involves Java or OIC, I'm all in!
 
----
-
-### 🛠️ Tech Stack
-
-#### Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
-![Oracle Integration Cloud](https://img.shields.io/badge/OIC-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Builder](https://img.shields.io/badge/Oracle_Visual_Builder-blue?style=for-the-badge)
-
-#### Databases  
-![OracleDB](https://img.shields.io/badge/Oracle-DBA121.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- 💼 Backend + Integration Engineer at **Accenture**
+- 🔁 Delivered 15+ real-world **ERP automations** using Java, Spring Boot & OIC
+- 🤖 Automated business flows using **OIC Robots**, cutting down processing time by 80%
+- 📊 Built 25+ BI Publisher reports—turning raw data into sharp insights
+- 🎯 Passionate about writing clean, testable code and scalable architectures
 
 ---
 
-### 💼 Experience Snapshot
+### 🔥 What Drives Me?
 
-#### 🏢 Accenture — Java + OIC Developer  
-*Sept 2024 – Present · Mumbai, India*
+> "Every line of code should solve a business problem—not just compile."
 
-- 🔹 Developed 10+ microservices using **Spring Boot**, handling financial workflows
-- 🔹 Built 12+ integrations in **Oracle Integration Cloud (OIC)** for ERP sync
-- 🔹 Automated 6+ ERP workflows using **OIC Robots**, reducing SLA breaches by 80%
-- 🔹 Generated 25+ BI Publisher templates, reducing reporting time by 70%
-- 🔹 Debugged and resolved 20+ production issues via logs and payload validation
-- 🔹 Validated APIs with Postman, tested 10K+ records via SQL Developer
-
-#### 💡 Smart Interviews — DSA Mentor  
-*Mar 2023 – Sept 2023 · Hyderabad, India*
-
-- 👨‍🏫 Mentored 100+ students on **Data Structures and Algorithms**
-- 📈 Helped 30+ students crack tech interviews with personalized reviews
-- 🏅 Achieved 4.9/5 feedback across 40+ live sessions
+Whether it's validating 10K+ records via SQL, building migration apps with VBCS, or resolving payload issues in production—I'm all about solving challenges that matter.
 
 ---
 
-### 🚀 Projects
+### 🧠 Tech Toolkit
 
-- **PeopleSoft to Oracle Cloud Migration**  
-  _OIC, ERP Adapter, BI Publisher, VBCS_  
-  → Built migration flows, validation apps, and audit reports for Fusion Cloud.
+#### 💻 Languages & Databases  
+`Java` `SQL` `PL/SQL` `Python` `HTML/CSS`  
+`OracleDB` `MySQL`
 
-- **Enterprise Asset Management Platform**  
-  _Spring Boot, JPA, Oracle DB_  
-  → Developed RESTful APIs to manage 5000+ asset lifecycles and transaction logic.
-
----
-
-### 📜 Certifications
-
-- 🏆 Oracle Certified Java EE 7 Application Developer  
-- ☁️ Oracle Integration Cloud 2025 Certified Application Integration Professional  
-- 🔄 Oracle Fusion Cloud ERP Foundations Associate  
-- 📚 Google IT Automation with Python (Coursera)  
-- 🧠 HackerRank SQL (Intermediate)  
-- 📌 Infosys Associate in IT  
-- 🧪 JUnit5 & Spring Boot Practice Projects
+#### ⚙️ Frameworks & Tools  
+`Spring Boot` `JUnit5` `OIC` `BI Publisher`  
+`Postman` `Git` `Oracle Visual Builder`
 
 ---
 
-### 🧠 Core Strengths
+### 🛠️ Noteworthy Work
 
-- **Backend Engineering** – Clean REST APIs, JPA repositories, Spring security, JUnit5  
-- **Integration Engineering** – OIC Gen 3, ERP & REST adapters, BI Publisher, Robots  
-- **Workflow Automation** – PL/SQL, OIC scheduling, custom logic mapping  
-- **Debugging & Delivery** – Functional UAT, post-prod fixes, SLA monitoring  
-- **Fast Learner** – Delivered first production OIC integration within 30 days
+#### 🚀 PeopleSoft to Oracle Cloud Migration  
+→ Migrated enterprise workflows, automated validations, and deployed BI reports using OIC, VBCS & ERP adapters.
+
+#### 🏗️ Asset Management Platform  
+→ Built scalable REST APIs in Spring Boot to manage 5,000+ asset lifecycles with Oracle DB and JPA.
 
 ---
 
-### 📈 GitHub Stats
+### 🎓 Certifications
+
+- ☁️ Oracle Integration Cloud 2025 Certified
+- 🧾 Oracle ERP Cloud Foundations Associate
+- 🧑‍💻 Oracle Certified Java EE 7 Developer
+- 🐍 Google IT Automation with Python
+- 🧠 HackerRank SQL (Intermediate)
+
+---
+
+### 💬 Why Me?
+
+- I build backend apps and integrations that **don’t break in production**
+- I adapt fast—shipped my **first client-facing integration within 30 days**
+- I care about users, business goals, and delivering impact—not just code
+
+---
+
+### 📊 GitHub at a Glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akheel51&show_icons=true&theme=tokyonight" height="150" />
@@ -110,23 +79,25 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p>
   <a href="mailto:akheelbaba51@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/akheel51" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/AKheel_51/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/akheel51" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
 ---
 
+### 🧩 Fun Fact
 
+I once optimized an ERP process so well, it freed up **6 hours/week** for my client team—that’s time back for innovation ☕
